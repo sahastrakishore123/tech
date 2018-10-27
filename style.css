@@ -1,0 +1,18 @@
+
+ 
+body {
+    padding: 0px;
+    margin:  0px;
+    width: 1080px;
+    background-image: url(maxresdefault.jpg);
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    
+}
+
+header{
+    border:solid rgb(2, 2, 43);
+    text-align: center;
+}
+
